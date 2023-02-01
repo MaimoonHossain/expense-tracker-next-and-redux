@@ -32,6 +32,7 @@ export default function Home() {
           </div>
             {/*<button onClick={redirect}>Click Me</button>*/}
             <div className="buttonContainer">
+                <br/>
                 <Link href="./summary"><button className="button">View Summary</button></Link>
             </div>
 
